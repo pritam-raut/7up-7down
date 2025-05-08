@@ -1,0 +1,214 @@
+*{
+    font-family: "Montserrat", sans-serif;
+    margin: 0%;
+    color: #fff;
+    overflow: hidden;
+    padding: 0%;
+    
+  
+  }
+
+  .maindiv{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+    
+  }
+
+  .background{
+    height: 100%;
+    width: 100%;
+    position: absolute; 
+    z-index: -1;
+  }
+  .background img{
+    height: 100%;
+    width: 100%;
+  }
+
+  .head{
+    width: 76%;
+    margin-top: 2rem;
+    margin-bottom: 0.5rem;
+    height: 6%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;    
+    
+  }
+
+  .name{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .name p{
+    font-size: 2rem;
+    font-weight: 700;
+    color: #f2f2f2;
+  }
+  
+
+  .profileText{
+    font-size: 2rem;
+    font-weight: 700;
+    color: #f2f2f2;
+
+  }
+  .profile{
+    background-color: #fff;
+    border: 0.15rem solid rgb(0, 255, 0);
+    border-radius: 50%;
+    height: 90%;
+    width: 4%;
+    margin-left: 0.5rem;
+  }
+  .profile img{
+    height: 100%;
+    width: 100%;
+    border-radius: 50%;
+  }
+  .contant{
+    /* original 77 */ 
+    width: 67%;   
+    /* original 78 */
+    height: 68%;  
+    display: flex;
+    flex-direction: column;
+   
+
+    
+  }
+
+  .history{
+    height: 8%;
+    width: 100%;
+    background-color: #0274b8;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+    border-bottom-left-radius: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+  }
+
+  .winOrloss p{
+    font-size: 2rem;
+    font-weight: 700;
+    color: #f2f2f2;
+  }
+
+  .gamediv{
+    height: 90%;
+    width: 100%;
+    display: flex;
+    margin-top:0.6rem ;
+    justify-content: space-between;
+    
+
+  }
+
+  .up{
+    background-color:#07d6ff;
+    width: 32%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* flex-direction: column; */
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+    border-bottom-left-radius: 1rem;
+  }
+
+  
+  .up1 p{
+    font-size: 10rem;
+  }
+
+  .luck{
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+    width: 32%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+    border-bottom-left-radius: 1rem;
+  }
+
+  .randomnum{
+    background-color: #509a12;
+    height: 23%;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+    border-bottom-left-radius: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    
+  }
+
+.num h1{
+    font-size: 6rem;
+}
+  .lucky{
+    background-color: #b3ea50;
+    height: 73%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+    border-bottom-left-radius: 1rem;
+    position: relative;
+  }
+  .lucky7{
+    font-size: 12rem;
+  }
+  .down{
+    background-color:#fec414;
+    width: 32%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+    border-bottom-left-radius: 1rem;
+  }
+
+  .down1 p{
+    font-size: 10rem;
+  }
+  .foot{
+    background-color: #0274b8;
+    width: 77%;
+    height: 6%;
+    margin-top: 0.5rem;
+    margin-bottom: 2.5rem;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+    border-bottom-left-radius: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+  }
+
+
+  
+  
