@@ -2,4 +2,4 @@ this project is made for learning purpose, in this project i made a board game 7
 
 while making this project i learn about js dom, topics like event listners, selectors,functions,callstack etc...
 
-i had lots of fun to see my idea into somthing real project thanku!
+i had lots of fun to see my idea into somthing real thanku!
